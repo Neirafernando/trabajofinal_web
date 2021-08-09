@@ -1,0 +1,25 @@
+.foto{
+    height: 70px;
+    width: auto;
+
+}
+
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:top ;
+    background-attachment: fixed;
+}
+
+.navbar{
+    background-color: #D44000;
+    
+}
+
+.color-cardh{
+    background-color: #423F3E;
+}
+.colo-btn{
+    background-color: #025955;
+}
