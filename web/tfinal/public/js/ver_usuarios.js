@@ -7,7 +7,7 @@ const iniciarEliminacion = async function(){
             cargarTabla(usuarios);
             Swal.fire("usuario eliminado", "eliminado exitosamente!!", "info");
         }else{
-            Swal.fire("la accion no se pudo realizar", "", "error");
+            Swal.fire("la accion no se pudo realizar", "operacion cancelada ", "error");
         }
     }else{
         Swal.fire("Cancelado", "Cancelado a peticion del usuario", "info");

@@ -26,6 +26,10 @@
                     <div class="navbar-nav">
                         <a class="nav-link text-white" href="{{route('registro_usuarios')}}">registro usuarios</a>
           		        <a class="nav-link text-white" href="{{route('ver_usuarios')}}">usuarios</a>
+                        <a class="nav-link text-white" href="{{route('registro_vehiculo')}}">registro vehiculos</a>
+                        <a class="nav-link text-white" href="{{route('ver_vehiculos')}}">vehiculos</a>
+                        <a class="nav-link text-white" href="{{route('registro_repuesto')}}">registro repuestos</a>
+                        <a class="nav-link text-white" href="{{route('ver_repuesto')}}">repuestos</a>
                     </div>
                 </div>
             </div>
